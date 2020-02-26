@@ -1,3 +1,11 @@
+# [8.0.1](https://github.com/appli-intramuros/react-native-fast-image/compare/v8.0.0...v8.0.1) (2020-02-26)
+
+
+### Bug Fix
+
+* no activity.isDestroyed() in android jellybean 16. ([#595](https://github.com/DylanVann/react-native-fast-image/issues/595)) 
+
+
 # [8.0.0](https://github.com/DylanVann/react-native-fast-image/compare/v7.0.2...v8.0.0) (2019-10-20)
 
 
